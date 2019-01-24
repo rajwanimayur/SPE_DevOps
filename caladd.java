@@ -29,7 +29,7 @@ public class caladd{
 					System.out.print("Result = " + res);
 					break;
 					
-				case '2': System.exit(0);
+				case '3': System.exit(0);
 					break;
 				
 				default: System.out.print("Invalid Choice!!");
